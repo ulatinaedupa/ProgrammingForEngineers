@@ -1,0 +1,71 @@
+Que tipo de lenguaje es python
+A. Compilado
+B. Interpretado
+C. Heredado
+D. Todas las anteriores
+E. Ninguna de las anteriores
+ANSWER: 
+
+Quien fue el creador de python
+A. John Rossenblant
+B. Anderson Iscariote 
+C. Ian Van Dahl
+D. Guido Van Rossum
+E. Chris Paliquaw
+F. Fei Fei Li
+ANSWER: 
+
+Que dara el siguiente programa de salida en python.  2.2*'holis'
+A. 'h'
+B. 'holis'
+C. TypeError
+D. CompilationError
+E. Ninguna de Las Anteriores
+F. Una salida vacía
+ANSWER: 
+
+Cual sera la siguiente salida en python. type(int(float('0.2')))
+A. CompilationError
+B. TypeError
+C. <class 'int'>
+D. Ninguna de las anteriores
+E. Salida vacia
+ANSWER: 
+
+Cuale es el error en la siguiente linea de codigo. 
+print(#hola# "Estamos imprimiendo")
+'datos')
+A. Estamos mezclando en la misma linea un comentario
+B. Ninguna de las anteriores
+C. Todo esta bien estructurado
+D. El codigo no compila, debe ser reparado
+ANSWER: 
+
+Es correcto declarar la siguiente variable? a = 3*'notas'
+A. Si, esto es permitido
+B. No, dara error
+C. Mejor por separado para tener entero y cadena
+D. Python no permite este tipo de asignaciones
+ANSWER: 
+
+Compilara esta linea en python? a = 1;
+A. Python no permite este tipo de asignaciones
+B. No, dara error
+C. Mejor por separado para tener entero y caracter
+D. Si, esto es permitido
+ANSWER: 
+
+Ejecuto un programa llamado 'programa_x2.py' en python en la terminal de anaconda de la siguiente manera: python programa_x2.py
+A. Cierto
+B. Falso
+ANSWER: 
+
+Ejecuto un programa llamado 'programa_x1.py' en python en la un notebook de la siguiente manera: !python programa_x1.py
+A. Cierto
+B. Falso
+ANSWER: 
+
+El token '=' es el de comparacion de variables y constantes.
+A. Cierto
+B. Falso
+ANSWER: 
