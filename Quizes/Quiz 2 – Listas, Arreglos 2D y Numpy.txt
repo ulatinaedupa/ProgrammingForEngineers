@@ -1,0 +1,61 @@
+Cual de los siguientes es valido para la construccion de una lista.
+A. [1, 3, 3, 1]
+B. [[1,2,4],[8,16,32]]
+C. [1+1, "x"*5, 4]
+D. Todas las anteriores
+E. Ninguna de las anteriores
+
+Una lista de python contiene practicamente de todo.  Para construir un subconjunto de lista de listas, ud. puede utilizar la misma tecnica anterior
+x = [[10, 20, 30, 40],[21, 31, 41, 51],[33, 43, 53, 63],[54, 64, 74, 84]]
+Que retornara el valor x[-1][2]?
+A. 30
+B. 41
+C. 43
+D. 74
+E. 64
+F. Error
+G. Ninguna de las anteriores
+
+Finalmente se puede remover elementos de la lista
+yy = ["aa", "bb", "cc"]
+del(yy[1])
+Para la siguiente lista
+anime_and_rating = ["hellsing", 5, "full metal alch", 4.8, "captain tusbasa", 4.2, "hunter x hunter", 4.5, "area no kishi", 3.8]
+Se desea remover ["area no kishi", 3.8]
+Cual de las siguientes partes hace el trabajo
+A. del(animes_and_rating[10]); del(animes_and_rating[9])
+B. del(animes_and_rating[9:10])
+C. del(animes_and_rating[-2:-1])
+D. del(animes_and_rating[-3]); del(animes_and_rating[-4])
+E. Ninguna de las anteriores
+
+Ahora conocemos algunas funciones de python, sin embargo no sabemos todas, tampoco que tipo de argumentos aceptan.
+Para pedir ayuda podemos hacerla con ? o con help().
+Cual de las siguientes aseveraciones es correcta con respecto a la funcion pow().
+A. pow() toma 3 argumentos, base, exp, y mod.  Si no especifas mod, la funcion retorna un error.
+B. pow() toma 3 argumentos, base, exp, y None.  Todos los argumentos son requeridos.
+C. pow() toma 3 argumentos, base, exp, y mod. base y exp son requeridos, mod es opcional
+D. pow() toma 2 argumentos, exp y mod. Si no se especifica exp, la funcion dara un erorr
+E. Ninguna de las anteriores
+
+Tenemos diferentes maneras de importar paquetes y modulos de python.
+Dependiendo del llamado puede utilziarse independientemente en el codigo en python
+Supongase que quiere utilizar la funcion inv(), la cual es parte de linalg, que es un subpaquete de scipy.
+Te gustaria utilizar esta funcion como sigue
+my_inv([[1,2],[4,8]])
+Cual funcion de importacion necesitara para correr el codigo superior sin errores.
+A. import scipy
+B. import scipy.linalg
+C. from scipy.linalg import my_inv
+D. from scipy.linalg import my_inv
+E. Ninguna de las anteriores
+
+Numpy es un gran paquete para manejo aritmetico.  Numpy contiene elementos de difrentes tipos.  Si uno quiere construir una lista probablemente
+espera que no cambien y sean de manera homogenea (cohersion).  Los elementos de +, -, *, / tienen diferentes tipos de significados si se usan en
+listas o se usan en arreglos de numpy, por ejemplo
+np.array([False, 2, 4]) + np.array([8, 16, True])
+Puede usted del pedazo de codigo anterior que da de salida en numpy si este paquete ha sido importado como np, cual es su equivalente.
+A. np.array([False, 2, 4, 8, 16, True])
+B. np.array([0, 2, 4]) + np.array([4, 16, 1])
+C. np.array([0, 2, 4]) + np.array([8, 16, -1])
+D. np.array([0, 2, 4, 8, 16, 1])
