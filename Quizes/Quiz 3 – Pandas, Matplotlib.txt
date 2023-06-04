@@ -1,0 +1,79 @@
+¿Cual de las siguientes opciones describe mejor la biblioteca Pandas?
+A. Una biblioteca para el procesamiento de imagenes.
+B. Una biblioteca para el manejo y analisis de datos.
+C. Una biblioteca para la creacion de interfaces graficas.
+D. Una biblioteca para el desarrollo web.
+E. Todas las anteriores.
+F. Ninguna de las anteriores.
+
+¿Que función se utiliza para cargar un archivo CSV en Pandas?
+A. read_csv()
+B. load_csv()
+C. open_csv()
+D. import_csv()
+E. Todas las anteriores.
+F. Ninguna de las anteriores.
+
+¿Cual de las siguientes opciones describe mejor la biblioteca Matplotlib?
+A. Una biblioteca para el manejo de bases de datos.
+B. Una biblioteca para la creacion de graficos y visualizaciones.
+C. Una biblioteca para el procesamiento de texto.
+D. Una biblioteca para la manipulación de imágenes.
+E. Todas las anteriores.
+F. Ninguna de las anteriores.
+
+¿Que función se utiliza para crear un grafico de barras en Matplotlib?
+A. plot()
+B. scatter()
+C. bar()
+D. pie()
+E. Todas las anteriores.
+F. Ninguna de las anteriores.
+
+¿Cual de las siguientes opciones describe mejor la función head() en Pandas?
+A. Devuelve las ultimas filas de un DataFrame.
+B. Devuelve una muestra aleatoria de filas de un DataFrame.
+C. Devuelve las primeras filas de un DataFrame.
+D. Devuelve una lista con los nombres de las columnas de un DataFrame.
+E. Todas las anteriores.
+F. Ninguna de las anteriores.
+
+¿Que funcion se utiliza para guardar un grafico en un archivo en Matplotlib?
+A. save_figure()
+B. export_graph()
+C. write_plot()
+D. save_plot()
+E. Todas las anteriores.
+F. Ninguna de las anteriores.
+
+¿Cual de las siguientes opciones describe mejor la funcion describe() en Pandas?
+A. Calcula estadisticas descriptivas de un DataFrame.
+B. Cuenta el numero de valores nulos en un DataFrame.
+C. Elimina filas duplicadas de un DataFrame.
+D. Ordena un DataFrame por una columna especifica.
+E. Todas las anteriores.
+F. Ninguna de las anteriores.
+
+¿Que funcion se utiliza para crear un grafico de dispersion en Matplotlib?
+A. plot()
+B. scatter()
+C. bar()
+D. pie()
+E. Todas las anteriores.
+F. Ninguna de las anteriores.
+
+¿Cual de las siguientes opciones describe mejor la funcion groupby() en Pandas?
+A. Agrupa filas de un DataFrame segun los valores de una columna especifica.
+B. Calcula la suma de los valores de una columna en un DataFrame.
+C. Elimina filas duplicadas de un DataFrame.
+D. Ordena un DataFrame por una columna especifica.
+E. Todas las anteriores.
+F. Ninguna de las anteriores.
+
+¿Que funcion se utiliza para configurar el titulo de un grafico en Matplotlib?
+A. set_title()
+B. set_label()
+C. set_legend()
+D. set_xlabel()
+E. Todas las anteriores.
+F. Ninguna de las anteriores.
