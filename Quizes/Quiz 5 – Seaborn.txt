@@ -1,0 +1,69 @@
+¿Cual es el argumento utilizado en la función `boxplot()` de Seaborn para especificar el metodo de calculo de los whiskers?
+A. `whiskers_method`
+B. `box_method`
+C. `whis`
+D. `fliers`
+E. Ninguna de las anteriores
+
+¿Cual es la funcion utilizada en Seaborn para crear un grafico de barras?
+A. barplot()
+B. scatterplot()
+C. lineplot()
+D. pieplot()
+E. Ninguna de las anteriores
+
+¿Cual es la funcion utilizada en Seaborn para crear un grafico de dispersion?
+A. barplot()
+B. scatterplot()
+C. lineplot()
+D. pieplot()
+E. Ninguna de las anteriores
+
+¿Cual es el metodo utilizado en Seaborn para ajustar los tamaños y las proporciones de los elementos de un grafico?
+A. `set_style()`
+B. `modify_size()`
+C. `customize_layout()`
+D. `scale_elements()`
+E. Ninguna de las anteriores
+
+¿Cual es la funcion utilizada en Seaborn para crear un grafico circular?
+A. barplot()
+B. scatterplot()
+C. lineplot()
+D. pieplot()
+E. Ninguna de las anteriores
+
+¿Cual es la funcion utilizada en Seaborn para crear un histograma?
+A. histplot()
+B. scatterplot()
+C. lineplot()
+D. boxplot()
+E. Ninguna de las anteriores
+
+¿Cual es el argumento utilizado en la función `heatmap()` de Seaborn para especificar los valores que se mostrarán en cada celda del mapa de calor?
+A. `annot`
+B. `values`
+C. `data`
+D. `cell`
+E. Ninguna de las anteriores
+
+¿Cual es la función utilizada en Seaborn para crear un grafico de violin?
+A. violinplot()
+B. scatterplot()
+C. lineplot()
+D. boxplot()
+E. Ninguna de las anteriores
+
+¿Cual es la funcion utilizada en Seaborn para crear un mapa de calor?
+A. heatmap()
+B. scatterplot()
+C. lineplot()
+D. boxplot()
+E. Ninguna de las anteriores
+
+¿Cuál es la función utilizada en Seaborn para crear un gráfico de dispersión con una línea de regresión?
+A. scatterplot()
+B. regplot()
+C. lineplot()
+D. pairplot()
+E. Ninguna de las anteriores

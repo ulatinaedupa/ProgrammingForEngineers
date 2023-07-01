@@ -1,0 +1,69 @@
+¿Cual es la estructura de control que se utiliza en Python para ejecutar una serie de instrucciones repetidamente?
+A. if-else
+B. for
+C. while
+D. switch
+E. Ninguna de las anteriores
+
+¿Cual es la palabra clave que se utiliza en Python para tomar decisiones en base a una condicion?
+A. if
+B. else
+C. elif
+D. when
+E. Ninguna de las anteriores
+
+¿Que estructura de control se utiliza para ejecutar un bloque de codigo solo si una condicion es verdadera en Python?
+A. for
+B. while
+C. do-while
+D. if-else
+E. Todas las anteriores
+
+¿Cual es la sintaxis correcta para un bucle "for" en Python que itere sobre una lista de elementos?
+A. for i in range(10):
+B. for i in range(1, 10):
+C. for i in range(0, 10, 2):
+D. for elemento in lista:
+E. Todas las anteriores
+
+¿Cual es la estructura de control utilizada para manejar excepciones en Python?
+A. if-else
+B. try-except
+C. while
+D. for
+E. Ninguna de las anteriores
+
+¿Cual es el operador utilizado en Python para calcular el residuo de una division entre dos numeros?
+A. /
+B. %
+C. //
+D. *
+E. Ninguna de las anteriores
+
+¿Cual es la forma correcta de comentar una linea de código en Python?
+A. // Comentario
+B. /* Comentario */
+C. # Comentario
+D. <!-- Comentario -->
+E. Ninguna de las anteriores
+
+¿Cual es la funcion utilizada en Python para obtener la longitud de una lista?
+A. length()
+B. count()
+C. size()
+D. len()
+E. Ninguna de las anteriores
+
+¿Cual es la estructura de control utilizada en Python para manejar multiples casos de decision?
+A. if-else
+B. switch
+C. for
+D. while
+E. Ninguna de las anteriores
+
+¿Cual es la función utilizada en Python para convertir una cadena a minusculas?
+A) upper()
+B) capitalize()
+C) swapcase()
+D) lower()
+E) Ninguna de las anteriores
